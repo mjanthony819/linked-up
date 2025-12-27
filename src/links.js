@@ -1,9 +1,8 @@
 export const mainContent = {
   imgSrc: `/assets/profile.png`,
-  name: `M.J.Anthony',
-  tagline: `19yo Techie`,
+name: `M.J.Anthony`,
+tagline: `i9yo Techie`,
 };
-
 export const socialLinks = [
   {
     title: 'Instagram',
