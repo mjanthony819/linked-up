@@ -1,29 +1,29 @@
 export const mainContent = {
   imgSrc: `/assets/profile.png`,
-  name: `Little Sticks`,
-  tagline: `Web Development Learning Platform`
+  name: `M.J.Anthony',
+  tagline: `19yo Techie`,
 };
 
 export const socialLinks = [
   {
     title: 'Instagram',
     icon: 'mdi:instagram',
-    url: 'https://www.instagram.com/jaydanurwin/',
+    url: 'https://www.instagram.com/mjanthon.y/',
   },
   {
     title: 'Twitter',
     icon: 'mdi:twitter  ',
-    url: 'https://twitter.com/littlesticksdev',
+    url: 'https://x.com/MjMjanthony819',
   },
   {
     title: 'YouTube',
     icon: 'mdi:youtube',
-    url: 'https://youtube.com/c/LittleSticks',
+    url: 'https://www.youtube.com/@mjanthony2260',
   },
   {
     title: 'GitHub',
     icon: 'mdi:github',
-    url: 'https://github.com/littlesticks',
+    url: 'https://github.com/mjanthony819',
   }
 ]
 
